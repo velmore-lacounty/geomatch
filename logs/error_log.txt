@@ -1,0 +1,1898 @@
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-04T13:41:28.948469
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-04T13:41:47.335063
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-04T13:41:50.181699
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-04T13:44:19.956049
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-04T13:44:21.557210
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-04T13:44:22.074913
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-04T13:44:22.525245
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-04T13:44:22.862975
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-04T13:51:09.231593
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-04T13:51:54.967650
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-04T13:51:57.388718
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-14T08:42:15.110632
+Error Type: KeyError
+Error Message: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 863, in trigger_geocoding
+    spatial_joined_data = sequential_sj(
+                          ^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 355, in sequential_sj
+    gdf = perform_spatial_join(points_gdf=gdf,
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 329, in perform_spatial_join
+    joined_gdf = gpd.sjoin(points_gdf, polygons_gdf[fields_to_keep + ['geometry']], how="left", predicate="intersects")
+                                       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/geopandas/geodataframe.py", line 1750, in __getitem__
+    result = super().__getitem__(key)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4108, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6252, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-14T08:42:20.373279
+Error Type: KeyError
+Error Message: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 863, in trigger_geocoding
+    spatial_joined_data = sequential_sj(
+                          ^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 355, in sequential_sj
+    gdf = perform_spatial_join(points_gdf=gdf,
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 329, in perform_spatial_join
+    joined_gdf = gpd.sjoin(points_gdf, polygons_gdf[fields_to_keep + ['geometry']], how="left", predicate="intersects")
+                                       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/geopandas/geodataframe.py", line 1750, in __getitem__
+    result = super().__getitem__(key)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4108, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6252, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-14T08:43:54.888633
+Error Type: KeyError
+Error Message: 'Address_Type'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Address_Type'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 876, in trigger_geocoding
+    spatial_joined_data = clear_ct_fields(
+                          ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 417, in clear_ct_fields
+    rows_to_update = df['Address_Type'].isin(address_types_to_clear) # & (df['Matched'] == 'Y')
+                     ~~^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Address_Type'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T11:10:53.254475
+Error Type: KeyError
+Error Message: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 863, in trigger_geocoding
+    spatial_joined_data = sequential_sj(
+                          ^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 355, in sequential_sj
+    gdf = perform_spatial_join(points_gdf=gdf,
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 329, in perform_spatial_join
+    joined_gdf = gpd.sjoin(points_gdf, polygons_gdf[fields_to_keep + ['geometry']], how="left", predicate="intersects")
+                                       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/geopandas/geodataframe.py", line 1750, in __getitem__
+    result = super().__getitem__(key)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4108, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6252, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T11:11:16.978957
+Error Type: KeyError
+Error Message: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 863, in trigger_geocoding
+    spatial_joined_data = sequential_sj(
+                          ^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 355, in sequential_sj
+    gdf = perform_spatial_join(points_gdf=gdf,
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 329, in perform_spatial_join
+    joined_gdf = gpd.sjoin(points_gdf, polygons_gdf[fields_to_keep + ['geometry']], how="left", predicate="intersects")
+                                       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/geopandas/geodataframe.py", line 1750, in __getitem__
+    result = super().__getitem__(key)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4108, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6252, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T11:12:15.852457
+Error Type: KeyError
+Error Message: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 863, in trigger_geocoding
+    spatial_joined_data = sequential_sj(
+                          ^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 355, in sequential_sj
+    gdf = perform_spatial_join(points_gdf=gdf,
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 329, in perform_spatial_join
+    joined_gdf = gpd.sjoin(points_gdf, polygons_gdf[fields_to_keep + ['geometry']], how="left", predicate="intersects")
+                                       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/geopandas/geodataframe.py", line 1750, in __getitem__
+    result = super().__getitem__(key)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4108, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6252, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T14:07:19.494180
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T14:07:27.117085
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T14:07:52.507972
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T14:07:53.725293
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T14:08:57.410667
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T14:54:42.912686
+Error Type: KeyError
+Error Message: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 863, in trigger_geocoding
+    spatial_joined_data = sequential_sj(
+                          ^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 355, in sequential_sj
+    gdf = perform_spatial_join(points_gdf=gdf,
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 329, in perform_spatial_join
+    joined_gdf = gpd.sjoin(points_gdf, polygons_gdf[fields_to_keep + ['geometry']], how="left", predicate="intersects")
+                                       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/geopandas/geodataframe.py", line 1750, in __getitem__
+    result = super().__getitem__(key)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4108, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6252, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T16:00:39.835568
+Error Type: KeyError
+Error Message: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 863, in trigger_geocoding
+    spatial_joined_data = sequential_sj(
+                          ^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 355, in sequential_sj
+    gdf = perform_spatial_join(points_gdf=gdf,
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 329, in perform_spatial_join
+    joined_gdf = gpd.sjoin(points_gdf, polygons_gdf[fields_to_keep + ['geometry']], how="left", predicate="intersects")
+                                       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/geopandas/geodataframe.py", line 1750, in __getitem__
+    result = super().__getitem__(key)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4108, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6252, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T16:03:13.055905
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T16:03:50.065249
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T16:05:10.037224
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T16:05:45.747559
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    addr_type_field = input.addr_type_field_selector()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T16:19:44.110081
+Error Type: KeyError
+Error Message: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 863, in trigger_geocoding
+    spatial_joined_data = sequential_sj(
+                          ^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 355, in sequential_sj
+    gdf = perform_spatial_join(points_gdf=gdf,
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 329, in perform_spatial_join
+    joined_gdf = gpd.sjoin(points_gdf, polygons_gdf[fields_to_keep + ['geometry']], how="left", predicate="intersects")
+                                       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/geopandas/geodataframe.py", line 1750, in __getitem__
+    result = super().__getitem__(key)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4108, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6252, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T16:19:54.166068
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    if "Census Tracts" in input.shapefile_selection():
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T16:26:22.127723
+Error Type: KeyError
+Error Message: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 863, in trigger_geocoding
+    spatial_joined_data = sequential_sj(
+                          ^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 355, in sequential_sj
+    gdf = perform_spatial_join(points_gdf=gdf,
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 329, in perform_spatial_join
+    joined_gdf = gpd.sjoin(points_gdf, polygons_gdf[fields_to_keep + ['geometry']], how="left", predicate="intersects")
+                                       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/geopandas/geodataframe.py", line 1750, in __getitem__
+    result = super().__getitem__(key)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4108, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6252, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T16:28:16.395336
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    try:
+         
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T16:30:05.075097
+Error Type: KeyError
+Error Message: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 863, in trigger_geocoding
+    spatial_joined_data = sequential_sj(
+                          ^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 355, in sequential_sj
+    gdf = perform_spatial_join(points_gdf=gdf,
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 329, in perform_spatial_join
+    joined_gdf = gpd.sjoin(points_gdf, polygons_gdf[fields_to_keep + ['geometry']], how="left", predicate="intersects")
+                                       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/geopandas/geodataframe.py", line 1750, in __getitem__
+    result = super().__getitem__(key)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4108, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6252, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T16:36:47.338580
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    census_layers = [c for c in shp_map if "Census Tracts" in c]
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T16:42:18.049759
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    if any("Census Tract" in name for name in shapefiles_to_join):
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T16:49:33.032458
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    if any("Census Tract" in name for name in shapefiles_to_join):
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T17:15:34.445107
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    if any("Census Tract" in name for name in shapefiles_to_join):
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T17:32:04.113501
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    if any("Census Tract" in name for name in shapefiles_to_join):
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T17:35:14.799139
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    # Optionally clear ct fields
+                      ^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T17:37:29.662405
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    # Optionally clear ct fields
+                      ^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T17:39:40.014063
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T17:39:43.271782
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-25T20:28:10.517403
+Error Type: KeyError
+Error Message: 'Locator_Match_Status'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Locator_Match_Status'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 832, in trigger_geocoding
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 272, in geocode
+    locator_status_condition = result_df['Locator_Match_Status'] == 'U'
+                               ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Locator_Match_Status'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-26T09:48:03.424143
+Error Type: KeyError
+Error Message: 'Locator_Match_Status'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Locator_Match_Status'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 792, in trigger_geocoding
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 272, in geocode
+    locator_status_condition = result_df['Locator_Match_Status'] == 'U'
+                               ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Locator_Match_Status'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-26T09:48:36.066522
+Error Type: KeyError
+Error Message: 'Locator_Match_Status'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Locator_Match_Status'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 792, in trigger_geocoding
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 272, in geocode
+    locator_status_condition = result_df['Locator_Match_Status'] == 'U'
+                               ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Locator_Match_Status'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-26T09:48:37.133747
+Error Type: KeyError
+Error Message: 'Locator_Match_Status'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Locator_Match_Status'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 792, in trigger_geocoding
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 272, in geocode
+    locator_status_condition = result_df['Locator_Match_Status'] == 'U'
+                               ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Locator_Match_Status'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-26T09:48:38.166321
+Error Type: KeyError
+Error Message: 'Locator_Match_Status'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Locator_Match_Status'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 792, in trigger_geocoding
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 272, in geocode
+    locator_status_condition = result_df['Locator_Match_Status'] == 'U'
+                               ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Locator_Match_Status'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-26T10:13:45.641924
+Error Type: KeyError
+Error Message: 'Locator_Match_Status'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Locator_Match_Status'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 792, in trigger_geocoding
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 272, in geocode
+    locator_status_condition = result_df['Locator_Match_Status'] == 'U'
+                               ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Locator_Match_Status'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-26T10:14:29.733028
+Error Type: KeyError
+Error Message: 'Locator_Match_Status'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Locator_Match_Status'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 832, in trigger_geocoding
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 272, in geocode
+    locator_status_condition = result_df['Locator_Match_Status'] == 'U'
+                               ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Locator_Match_Status'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-26T14:58:50.782541
+Error Type: KeyError
+Error Message: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 863, in trigger_geocoding
+    locator=locator_smp,
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 355, in sequential_sj
+    gdf = perform_spatial_join(points_gdf=gdf,
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 329, in perform_spatial_join
+    joined_gdf = gpd.sjoin(points_gdf, polygons_gdf[fields_to_keep + ['geometry']], how="left", predicate="intersects")
+                                       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/geopandas/geodataframe.py", line 1750, in __getitem__
+    result = super().__getitem__(key)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4108, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6252, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['CITY_COMM_NAME', 'JURISDICTION'] not in index"
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-26T15:08:23.436714
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    zip_field=zip_field,
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-08-26T15:10:16.838282
+Error Type: SilentException
+Error Message: 
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 873, in trigger_geocoding
+    zip_field=zip_field,
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 127, in __call__
+    return self.get()
+           ^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/shiny/reactive/_reactives.py", line 149, in get
+    raise SilentException
+shiny.types.SilentException
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-09-04T20:48:47.955455
+Error Type: KeyError
+Error Message: 'Locator_Match_Status'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Locator_Match_Status'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 822, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 272, in geocode
+    locator_status_condition = result_df['Locator_Match_Status'] == 'U'
+                               ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Locator_Match_Status'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-09-04T20:56:57.078284
+Error Type: KeyError
+Error Message: 'Locator_Match_Status'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Locator_Match_Status'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 862, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 272, in geocode
+    locator_status_condition = result_df['Locator_Match_Status'] == 'U'
+                               ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Locator_Match_Status'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-09-15T10:44:18.805065
+Error Type: KeyError
+Error Message: 'Address_Type'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Address_Type'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 911, in trigger_geocoding
+    spatial_joined_data = clear_ct_fields(
+                          ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 417, in clear_ct_fields
+    rows_to_update = df['Address_Type'].isin(address_types_to_clear) # & (df['Matched'] == 'Y')
+                     ~~^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Address_Type'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-09-15T10:56:03.188846
+Error Type: KeyError
+Error Message: 'Address_Type'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Address_Type'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 911, in trigger_geocoding
+    spatial_joined_data = clear_ct_fields(
+                          ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 417, in clear_ct_fields
+    rows_to_update = df['Address_Type'].isin(address_types_to_clear) # & (df['Matched'] == 'Y')
+                     ~~^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Address_Type'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-11-03T14:11:36.824395
+Error Type: KeyError
+Error Message: 'Locator_Match_Status'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Locator_Match_Status'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 822, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 272, in geocode
+    locator_status_condition = result_df['Locator_Match_Status'] == 'U'
+                               ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Locator_Match_Status'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2025-11-03T14:13:21.396760
+Error Type: KeyError
+Error Message: 'Locator_Match_Status'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Locator_Match_Status'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 822, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 272, in geocode
+    locator_status_condition = result_df['Locator_Match_Status'] == 'U'
+                               ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Locator_Match_Status'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T09:23:00.022355
+Error Type: KeyError
+Error Message: 'ResultID'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 822, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 260, in geocode
+    result_df = pd.merge(df, geocode_df, left_on='EID', right_on='ResultID', how='left')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 794, in __init__
+    ) = self._get_merge_keys()
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1297, in _get_merge_keys
+    right_keys.append(right._get_label_or_level_values(rk))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'ResultID'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T14:22:30.023671
+Error Type: KeyError
+Error Message: 'ResultID'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 862, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 260, in geocode
+    result_df = pd.merge(df, geocode_df, left_on='EID', right_on='ResultID', how='left')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 794, in __init__
+    ) = self._get_merge_keys()
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1297, in _get_merge_keys
+    right_keys.append(right._get_label_or_level_values(rk))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'ResultID'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T14:22:41.308181
+Error Type: KeyError
+Error Message: 'ResultID'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 862, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 260, in geocode
+    result_df = pd.merge(df, geocode_df, left_on='EID', right_on='ResultID', how='left')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 794, in __init__
+    ) = self._get_merge_keys()
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1297, in _get_merge_keys
+    right_keys.append(right._get_label_or_level_values(rk))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'ResultID'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T14:23:55.635459
+Error Type: KeyError
+Error Message: 'ResultID'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 862, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 260, in geocode
+    result_df = pd.merge(df, geocode_df, left_on='EID', right_on='ResultID', how='left')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 794, in __init__
+    ) = self._get_merge_keys()
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1297, in _get_merge_keys
+    right_keys.append(right._get_label_or_level_values(rk))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'ResultID'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T14:24:52.161696
+Error Type: KeyError
+Error Message: 'ResultID'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 862, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 260, in geocode
+    result_df = pd.merge(df, geocode_df, left_on='EID', right_on='ResultID', how='left')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 794, in __init__
+    ) = self._get_merge_keys()
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1297, in _get_merge_keys
+    right_keys.append(right._get_label_or_level_values(rk))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'ResultID'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T14:25:40.959998
+Error Type: KeyError
+Error Message: 'ResultID'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 862, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 260, in geocode
+    result_df = pd.merge(df, geocode_df, left_on='EID', right_on='ResultID', how='left')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 794, in __init__
+    ) = self._get_merge_keys()
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1297, in _get_merge_keys
+    right_keys.append(right._get_label_or_level_values(rk))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'ResultID'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T14:27:22.274448
+Error Type: KeyError
+Error Message: 'ResultID'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 862, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 260, in geocode
+    result_df = pd.merge(df, geocode_df, left_on='EID', right_on='ResultID', how='left')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 794, in __init__
+    ) = self._get_merge_keys()
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1297, in _get_merge_keys
+    right_keys.append(right._get_label_or_level_values(rk))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'ResultID'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T14:36:47.723660
+Error Type: KeyError
+Error Message: 'ResultID'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 862, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 260, in geocode
+    result_df = pd.merge(df, geocode_df, left_on='EID', right_on='ResultID', how='left')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 794, in __init__
+    ) = self._get_merge_keys()
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1297, in _get_merge_keys
+    right_keys.append(right._get_label_or_level_values(rk))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'ResultID'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T14:41:36.788211
+Error Type: KeyError
+Error Message: 'ResultID'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 862, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 260, in geocode
+    result_df = pd.merge(df, geocode_df, left_on='EID', right_on='ResultID', how='left')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 794, in __init__
+    ) = self._get_merge_keys()
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1297, in _get_merge_keys
+    right_keys.append(right._get_label_or_level_values(rk))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'ResultID'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T14:47:26.183574
+Error Type: KeyError
+Error Message: 'ResultID'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 822, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 260, in geocode
+    result_df = pd.merge(df, geocode_df, left_on='EID', right_on='ResultID', how='left')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 794, in __init__
+    ) = self._get_merge_keys()
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1297, in _get_merge_keys
+    right_keys.append(right._get_label_or_level_values(rk))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'ResultID'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T15:02:22.108199
+Error Type: KeyError
+Error Message: 'ResultID'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 822, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 260, in geocode
+    result_df = pd.merge(df, geocode_df, left_on='EID', right_on='ResultID', how='left')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 794, in __init__
+    ) = self._get_merge_keys()
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1297, in _get_merge_keys
+    right_keys.append(right._get_label_or_level_values(rk))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'ResultID'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T15:09:14.376568
+Error Type: KeyError
+Error Message: 'ResultID'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 862, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 260, in geocode
+    result_df = pd.merge(df, geocode_df, left_on='EID', right_on='ResultID', how='left')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 794, in __init__
+    ) = self._get_merge_keys()
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1297, in _get_merge_keys
+    right_keys.append(right._get_label_or_level_values(rk))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'ResultID'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T15:22:02.668855
+Error Type: KeyError
+Error Message: 'ResultID'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 822, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 260, in geocode
+    result_df = pd.merge(df, geocode_df, left_on='EID', right_on='ResultID', how='left')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 794, in __init__
+    ) = self._get_merge_keys()
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1297, in _get_merge_keys
+    right_keys.append(right._get_label_or_level_values(rk))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'ResultID'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T15:25:28.462216
+Error Type: KeyError
+Error Message: 'Address_Type'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Address_Type'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 911, in trigger_geocoding
+    spatial_joined_data = clear_ct_fields(
+                          ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 417, in clear_ct_fields
+    rows_to_update = df['Address_Type'].isin(address_types_to_clear) # & (df['Matched'] == 'Y')
+                     ~~^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Address_Type'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T15:25:58.068526
+Error Type: KeyError
+Error Message: 'Address_Type'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Address_Type'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 911, in trigger_geocoding
+    spatial_joined_data = clear_ct_fields(
+                          ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 417, in clear_ct_fields
+    rows_to_update = df['Address_Type'].isin(address_types_to_clear) # & (df['Matched'] == 'Y')
+                     ~~^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Address_Type'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T15:28:26.222251
+Error Type: KeyError
+Error Message: 'ResultID'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 822, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 260, in geocode
+    result_df = pd.merge(df, geocode_df, left_on='EID', right_on='ResultID', how='left')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 794, in __init__
+    ) = self._get_merge_keys()
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1297, in _get_merge_keys
+    right_keys.append(right._get_label_or_level_values(rk))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'ResultID'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T15:29:05.243441
+Error Type: KeyError
+Error Message: 'ResultID'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 862, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 260, in geocode
+    result_df = pd.merge(df, geocode_df, left_on='EID', right_on='ResultID', how='left')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 794, in __init__
+    ) = self._get_merge_keys()
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1297, in _get_merge_keys
+    right_keys.append(right._get_label_or_level_values(rk))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'ResultID'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T15:29:24.204115
+Error Type: KeyError
+Error Message: 'ResultID'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 862, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 260, in geocode
+    result_df = pd.merge(df, geocode_df, left_on='EID', right_on='ResultID', how='left')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 794, in __init__
+    ) = self._get_merge_keys()
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1297, in _get_merge_keys
+    right_keys.append(right._get_label_or_level_values(rk))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'ResultID'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T15:45:12.574752
+Error Type: KeyError
+Error Message: 'Address_Type'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Address_Type'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 911, in trigger_geocoding
+    spatial_joined_data = clear_ct_fields(
+                          ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 417, in clear_ct_fields
+    rows_to_update = df['Address_Type'].isin(address_types_to_clear) # & (df['Matched'] == 'Y')
+                     ~~^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Address_Type'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-01-26T17:05:45.629321
+Error Type: KeyError
+Error Message: 'ResultID'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 822, in trigger_geocoding
+    geocoded_data = geocode(df=df,
+                   ^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 260, in geocode
+    result_df = pd.merge(df, geocode_df, left_on='EID', right_on='ResultID', how='left')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 794, in __init__
+    ) = self._get_merge_keys()
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1297, in _get_merge_keys
+    right_keys.append(right._get_label_or_level_values(rk))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'ResultID'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-03-19T09:53:11.404768
+Error Type: KeyError
+Error Message: 'Address_Type'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Address_Type'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 911, in trigger_geocoding
+    spatial_joined_data = clear_ct_fields(
+                          ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 417, in clear_ct_fields
+    rows_to_update = df['Address_Type'].isin(address_types_to_clear) # & (df['Matched'] == 'Y')
+                     ~~^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Address_Type'
+
+
+==== ERROR LOG ENTRY ====
+Timestamp: 2026-03-19T09:53:25.795728
+Error Type: KeyError
+Error Message: 'Address_Type'
+Traceback:
+Traceback (most recent call last):
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Address_Type'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/srv/shiny-server/geomatch/server.py", line 911, in trigger_geocoding
+    spatial_joined_data = clear_ct_fields(
+                          ^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/geomatch/functions/functions.py", line 417, in clear_ct_fields
+    rows_to_update = df['Address_Type'].isin(address_types_to_clear) # & (df['Matched'] == 'Y')
+                     ~~^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/shiny-server/python-venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Address_Type'
+
+
