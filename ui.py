@@ -25,6 +25,12 @@ def app_ui(request=None):
                         "LA County Department of Public Health Secure Geocoding Application",
                         style="font-size: 2rem; margin-bottom: 0; text-align: center;"
                     ),
+                    ui.a(
+                        "Tool Documentation",
+                        href="https://dph.interactgo.com/page/3029",
+                        target="_blank",
+                        style="display: block; text-align: center;"
+                    ),
                     style="flex: 1; display: flex; flex-direction: column; justify-content: center;"  # Center text vertically
                 ),
                 class_="d-flex align-items-center justify-content-center",
@@ -40,7 +46,9 @@ def app_ui(request=None):
               ),
             ui.input_file("file_upload", "Click Browse or drag and drop to upload a file (.csv or .xlsx) containing addresses or latitude/longitude (xy coordinates).", accept=['.csv', '.xlsx']),
             ui.p(
-              "To geocode, your file must contain addresses in one or more fields. To execute a spatial join that will assign common demographic, political, and/or administrative units, your file must contain latitude (Y) and longitude (X) fields, with coordinates in decimal degree format (e.g., 32.1599830, -118.2311459).",
+              "To geocode, your file must contain addresses in one or more fields.",
+              ui.br(),
+              "To execute a spatial join that will assign common demographic, political, and/or administrative units, your file must contain latitude (Y) and longitude (X) fields, with coordinates in decimal degree format (e.g., 32.1599830, -118.2311459).",
               class_="text-muted"
             ),
             class_="mb-4"
@@ -52,13 +60,21 @@ def app_ui(request=None):
               ui.tags.strong("Step 2: Select Input Data Type")
               ),
             ui.p(
-              "My file contains:",
+                "To geocode, select ",
+                ui.span("Addresses in a single field ", style="font-style: italic;"),
+                "or ",
+                ui.span("Addresses parsed in multiple fields.", style="font-style: italic;"),
+                "To execute a spatial join, select ",
+                ui.span("Latitude and longitude fields.", style="font-style: italic;"),
+                "To do both, run the tool twice: once to geocode your data, and a second time to execute the spatial join.",
+                ui.br(), ui.br(),
+                ui.strong("My file contains:"),
               class_="mb-3"
             ),
             ui.input_radio_buttons("address_type", "", 
                                    {"single": "Addresses in a single field", 
                                    "multiple": "Addresses parsed in multiple fields",
-                                   "xy": "Latitude and Longitude fields"}),
+                                   "xy": "Latitude and longitude fields"}),
              # Dynamic UI for field selectors
             ui.output_ui("field_selector_ui"),
             class_="mb-4"
@@ -70,10 +86,13 @@ def app_ui(request=None):
               ui.tags.strong("Step 3: Set Geoprocessing Parameters (optional)")
               ),
             ui.p(
-              "The menus below provide options to refine the geocoding or spatial joining processes. The default settings will meet most users' needs. "
-              "To run the tool with the default settings, skip to Step 4. To adjust the tool settings, please read the instructions "
-              "carefully and refer to the tool documentation for more information. "
-              ),
+                "The menus below provide options to refine the geocoding or spatial joining processes. "
+                "The default settings will meet most users' needs. "
+                "To run the tool with the default settings, skip to Step 4. To adjust the tool settings, "
+                "please read the instructions carefully and refer to the ",
+                ui.a("tool documentation", href="https://dph.interactgo.com/page/3029", target="_blank"),
+                " for more information."
+            ),
             ui.div(
                 ui.output_ui("clean_addresses_ui"),  # Dynamically show/hide based on address_type
                 ui.output_ui("geocoding_score_ui"),
@@ -114,5 +133,30 @@ def app_ui(request=None):
         ui.output_ui("function_failed_message"),
         
         # Footer with credits or other info
-        ui.div("Created by the Information Management and Analytics Office", class_="text-muted mt-5 text-center")
+        ui.div(
+            ui.p(
+                "Los Angeles County Department of Public Health - Information Management and Analytics Office",
+                ui.br(),
+                "Contact the IMAO GIS team at ",
+                ui.a(
+                    "GIS@ph.lacounty.gov",
+                    href="mailto:gis@ph.lacounty.gov?subject=GeoMatch Feedback"
+                ),
+                ui.br(),
+                "Submit error reports and request help via the ",
+                ui.a(
+                    "IMAO Support Request Form",
+                    href="https://app.smartsheet.com/b/form/019b327c3ea3735fa584b3c7102df0f1",
+                    target="_blank"
+                ),
+             ),
+            style="""
+                width: 100%;
+                background-color: black;
+                color: white;
+                padding: 20px 20px 5px 20px;
+                margin-top: 40px;
+                text-align: center;
+            """
+        )
     )

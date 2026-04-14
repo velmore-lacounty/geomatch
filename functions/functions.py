@@ -91,17 +91,17 @@ def postprocess_vrbis(df, null_fields, state_centroid=False, country_centroid=Fa
         condition = ~unmatched_by_locator_condition & (df['Address_Type'] == 'Locality') & (df['Address_Subtype'] == 'State or Province')
         df.loc[condition, 'Matched'] = 'N'
         df.loc[condition, null_fields] = np.nan
-        df.loc[condition, 'Notes'] += 'Excluded address subtype'
+        df.loc[condition, 'Geoprocessing_Notes'] += 'Excluded address subtype'
     if country_centroid:
         condition = ~unmatched_by_locator_condition & (df['Address_Type'] == 'Locality') & (df['Address_Subtype'] == 'Country')
         df.loc[condition, 'Matched'] = 'N'
         df.loc[condition, null_fields] = np.nan
-        df.loc[condition, 'Notes'] += 'Excluded address subtype'
+        df.loc[condition, 'Geoprocessing_Notes'] += 'Excluded address subtype'
     if la_centroid:
         condition = ~unmatched_by_locator_condition & (df['Address_Type'] == 'Locality') & (df['Address_Subtype'] == 'City') & (df['Match_City'] == 'Los Angeles')
         df.loc[condition, 'Matched'] = 'N'
         df.loc[condition, null_fields] = np.nan
-        df.loc[condition, 'Notes'] += 'Excluded address subtype (City of LA centroid)'
+        df.loc[condition, 'Geoprocessing_Notes'] += 'Excluded address subtype (City of LA centroid)'
     
     return df
 
@@ -262,8 +262,8 @@ def geocode(df,
     # Add the "Locator" field
     result_df['Locator'] = locator
     
-    # Add the "Notes" field
-    result_df['Notes'] = ''
+    # Add the "Geoprocessing_Notes" field
+    result_df['Geoprocessing_Notes'] = ''
     
     # Add the "Matched" field and initialize it with 'Y'
     result_df['Matched'] = 'Y'
@@ -271,7 +271,7 @@ def geocode(df,
     # Check locator match status. Begin populating 'Matched' field accordingly.
     locator_status_condition = result_df['Locator_Match_Status'] == 'U'
     result_df.loc[locator_status_condition, 'Matched'] = 'N'
-    result_df.loc[locator_status_condition, 'Notes'] = 'Not matched by locator'
+    result_df.loc[locator_status_condition, 'Geoprocessing_Notes'] = 'Not matched by locator'
     
     # For records matched or tied by locator, check other conditions to determine 'Matched' field value
     other_conditions = ~locator_status_condition
@@ -279,13 +279,13 @@ def geocode(df,
     # Check geocoding score. Populate matched field accordingly. 
     score_condition = other_conditions & (result_df['Geocoding_Score'] < min_score)
     result_df.loc[score_condition, 'Matched'] = 'N'
-    result_df.loc[score_condition, 'Notes'] += 'Score below threshold set by user; '
+    result_df.loc[score_condition, 'Geoprocessing_Notes'] += 'Score below threshold set by user; '
     
     # Check address type and populated matched field accordingly
     if accepted_addr_types:
         invalid_addr_type_condition = other_conditions & ~result_df['Address_Type'].isin(accepted_addr_types)
         result_df.loc[invalid_addr_type_condition, 'Matched'] = 'N'
-        result_df.loc[invalid_addr_type_condition, 'Notes'] += 'Excluded address type; '
+        result_df.loc[invalid_addr_type_condition, 'Geoprocessing_Notes'] += 'Excluded address type; '
         
     # Nullify Match_<address component> fields for records with 'N' in 'Matched' field
     existing_fields_to_nullify = [field for field in null_fields if field in result_df.columns]
@@ -304,8 +304,8 @@ def geocode(df,
                                       country_centroid=country_centroid, 
                                       la_centroid=la_centroid)
     
-    # Remove trailing semicolon and space from the 'Notes' column
-    result_df['Notes'] = result_df['Notes'].str.rstrip('; ')
+    # Remove trailing semicolon and space from the 'Geoprocessing_Notes' column
+    result_df['Geoprocessing_Notes'] = result_df['Geoprocessing_Notes'].str.rstrip('; ')
     
     # Drop the ResultID and EID fields
     result_df = result_df.drop(columns=['ResultID', 'EID'])
@@ -405,9 +405,9 @@ def clear_ct_fields(df, addr_type_field, shp_map):
     # Check if the CT fields are present in the DataFrame
     present_ct_fields = [field for field in ct_fields if field in df.columns]
     
-    # Add 'Notes' field if it does not exist
-    if 'Notes' not in df.columns:
-        df['Notes'] = ''
+    # Add 'Geoprocessing_Notes' field if it does not exist
+    if 'Geoprocessing_Notes' not in df.columns:
+        df['Geoprocessing_Notes'] = ''
     
     if present_ct_fields:
         # Address types to check for
@@ -423,14 +423,14 @@ def clear_ct_fields(df, addr_type_field, shp_map):
         ct_fields_str = ", ".join(present_ct_fields)
         message = f"Joins removed for {ct_fields_str} due to unsuitable address type."
         
-        # Update the 'Notes' field
+        # Update the 'Geoprocessing_Notes' field
         for idx, row in df[rows_to_update].iterrows():
-            # If the 'Notes' field is empty, add the message
-            if pd.isna(row['Notes']) or row['Notes'] == '' or row['Notes'] == ' ':
-                df.at[idx, 'Notes'] = message
+            # If the 'Geoprocessing_Notes' field is empty, add the message
+            if pd.isna(row['Geoprocessing_Notes']) or row['Geoprocessing_Notes'] == '' or row['Geoprocessing_Notes'] == ' ':
+                df.at[idx, 'Geoprocessing_Notes'] = message
             else:
-                # If the 'Notes' field is not empty, append the message with a semicolon
-                df.at[idx, 'Notes'] = f"{row['Notes']}; {message}"
+                # If the 'Geoprocessing_Notes' field is not empty, append the message with a semicolon
+                df.at[idx, 'Geoprocessing_Notes'] = f"{row['Geoprocessing_Notes']}; {message}"
     return df
   
 def assign_spa_98(point_df, x_field, y_field, spa_field):

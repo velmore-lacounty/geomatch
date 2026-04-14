@@ -149,8 +149,12 @@ def server(input, output, session):
                                       'to "SOUTH PASADENA", or "NORTHBOUND 5, MAIN ST EXIT" to "I-5 N @ MAIN ST". The IMAO GIS team has developed an algorithm for correcting common spelling '
                                       'and syntax errors in addresses before geocoding. To apply this algorithm to your input data, check the box below (recommended). Although the algorithm '
                                       'has been thoroughly tested, it cannot catch every error, and it can make mistakes. If you choose to apply the address cleaning algorithm to your input '
-                                      'data, you can review any changes in the output file, which contains both the original and cleaned addresses. For more information, please see the app '
-                                      'documentation.'
+                                      'data, you can review any changes in the output file, which contains both the original and cleaned addresses. For more information, please see the ',
+                                      ui.a(
+                                          "application documentation",
+                                          href="https://dph.interactgo.com/page/3029#Set-geoprocessing-pa-14",
+                                          target="_blank"    
+                                      ),
                                   ),
                                   ui.input_checkbox("clean_addresses", "Yes, clean my addresses", value=True),
                                   ui.h4("  ", class_="mb-4"),
@@ -186,28 +190,32 @@ def server(input, output, session):
                               # Content inside the hollow rectangle
                               ui.div(
                                   ui.p(
-                                      "During geocoding, the locator compiles a list of addresses that may be matches for each input address. "
-                                      "Each address in the list is assigned a score (0-100) assessing its similarity to the input address. "
-                                      "Addresses on the list that receive a minimum score of 70 are considered ",
-                                      ui.tags.em("candidates"),
-                                      ". The candidate with the highest score is a ",
-                                      ui.tags.em("match "),
-                                      "for the input address. If no addresses on the list exceed a score of 70, the input address is considered ",
-                                      ui.tags.em("unmatched"), ".",
+                                      "During geocoding, the locator uses a complex algorithm to assign geocoding scores to locations in the reference data. "
+                                      "The geocoding score, which ranges from 0 to 100, represents the degree to which a location found in the reference data "
+                                      "matches the input address. The ", ui.tags.em("minimum match score "),
+                                      "is the minimum geocoding score a location in the reference data must receive to be considered a match for the input address. " 
+                                      "If no addresses on the list receive scores exceeding the minimum match score, the input address is considered unmatched. ",
                                       ui.br(),
                                       ui.br(),
-                                      "You can set minimum score higher than 70 to decrease the likelihood of incorrect matches. However, selecting "
-                                      "a higher minimum score may result in fewer matches.",
-                                      ui.br(),
-                                      ui.br(),
+                                      "By default, the minimum match score for the StreetMap Premium locator is 75. "
+                                      "You can set a higher minimum match score to decrease the likelihood of incorrect matches. However, selecting "
+                                      "a higher minimum score may result in fewer matches. ",
                                       ui.tags.strong(
                                                     "To increase the minimum match score, set the slider to the desired score. Otherwise, leave "
-                                                    "the slider set to 70."  
-                                                    )
+                                                    "the slider set to 75."  
+                                                    ),
+                                      ui.br(), ui.br(),
+                                      "Guidance for selecting a minimum match score is available in the ",
+                                      ui.a(
+                                            "application documentation",
+                                            href="https://dph.interactgo.com/page/3029#Set-geoprocessing-pa-14",
+                                            target="_blank"    
+                                        ),
+                                        "."
                                   ),
                                   # Wrap the slider in a div and apply Bootstrap class to control the width
                                   ui.div(
-                                      ui.input_slider("min_score", "", min=70, max=100, value=70, step=1),
+                                      ui.input_slider("min_score", "", min=75, max=100, value=75, step=1),
                                       class_="col-md-4 mb-4",
                                       style="margin-left: 40px;",
                                   ),
@@ -254,7 +262,12 @@ def server(input, output, session):
                                   "and users who want to maximize their number of matches, even if some of the matches are less precise, such as matches to a "
                                   "zipcode or city centroid. If your data includes non-traditional addresses, such as street intersections or mile markers, or if "
                                   "your project requires a high level of precision for your matches, you may want to change the default values. A full explanation "
-                                  "of each address type is included in the app documentation."
+                                  "of each address type is included in the ",
+                                   ui.a(
+                                        "application documentation",
+                                        href="https://dph.interactgo.com/page/3033",
+                                        target="_blank"
+                                   ),
                               ),
                               # Custom layout using CSS for a 3-column layout
                               ui.div(
@@ -365,7 +378,13 @@ def server(input, output, session):
                                           "to unmatch records with a State address subtype. Finally, in some cases, city level matches may be precise enough, unless the record matches to "
                                           "the City of Los Angeles, which is very large. To unmatch records with a City address subtype that are matched to the City of LA, check ",
                                           ui.tags.em("Unmatch City of LA centroid."),
-                                          " For a more detailed explanation of this setting, please see the application documentation."
+                                          " For a more detailed explanation of this setting, please see the ",
+                                          ui.a(
+                                              "application documentation", 
+                                              href="https://dph.interactgo.com/page/3029#Set-geoprocessing-pa-14", 
+                                              target="_blank"
+                                              ),
+                                          "."
                                       ),
                                       ui.input_checkbox("country_centroid", "Unmatch country centroids", value=False),
                                       ui.input_checkbox("state_centroid", "Unmatch state centroids", value=False),
@@ -416,7 +435,13 @@ def server(input, output, session):
                                       "To determine the demographic, political, or administrative districts a point falls within, "
                                       "conduct a spatial join. The spatial join will add one or more fields to your input table "
                                       "identifying attribute(s) of the district(s) each point falls within. For more information about "
-                                      "spatial joins, please see the app documentation."
+                                      "spatial joins, please see the ",
+                                    ui.a(
+                                        "application documentation",
+                                        href="https://dph.interactgo.com/page/3029#Conduct-spatial-join-15",
+                                        target="_blank"    
+                                    ),
+                                    ".",
                                   ),
                                   ui.input_checkbox_group("shapefile_selection", " ", choices=shp_choices, selected=default_selection),
                                   style="padding: 20px;"  # Inner content padding
@@ -723,8 +748,8 @@ def server(input, output, session):
                               '<br><b>Note:</b> You joined Census Tracts or Split Census Tracts to your input data, but opted out of '
                               'providing an address type field. If your input data contains points geocoded to the zipcode or locality '
                               '(city, county, state/province, or country) level, the accuracy of tract-level joins cannot be guaranteed '
-                              'for those records. Take caution when aggregating the joined data. <b>For more information, refer to the app '
-                              'documentation.</b>'
+                              'for those records. Take caution when aggregating the joined data. <b>For more information, refer to the '
+                              '<a href="https://dph.interactgo.com/page/3029#Set-geoprocessing-pa-10" target="_blank">application documentation</a>.</b>'
                               )
                           )
                           if not input.opt_out_confirmation():
@@ -947,9 +972,9 @@ def server(input, output, session):
                 traceback_str = "".join(traceback.format_exception(type(e), e, e.__traceback__))
                 timestamp = datetime.now().isoformat()
                 function_failed_message_store.set(f"""
-                    An unexpected error occurred. Please check that you have selected input parameters correctly. If you are unsure, 
-                    please refer to the tool documentation. If you believe your input parameters are correct, refresh the page and try 
-                    again. If the error persists, contact the IMAO GIS team at gis@ph.lacounty.gov and provide the following timestamp: 
+                    An unexpected error occurred. 
+                    If the error persists, request support from the IMAO GIS team using the contact information at the bottom of the page.
+                    Please provide the following timestamp with you support request:\n
                     {timestamp}
                     """)
                 log_error_to_file(
